@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#  Chai Culture — Coming Soon
 
-## Getting Started
+**Brew the Royal Tradition**
 
-First, run the development server:
+A premium, minimal “Coming Soon” landing page for **Chai Culture**, a brand inspired by the royal traditions of Indian chai and crafted for a modern global audience.
+
+This project was built as part of a frontend assignment to translate brand heritage into a calm, elegant, and production-ready digital experience.
+
+---
+
+## 🌿 Brand Philosophy
+
+Chai Culture is rooted in **Indian heritage, ritual, and warmth**.  
+The goal of this page is not to shout, but to **invite** — reflecting the quiet confidence of a luxury brand.
+
+Every design and technical choice prioritizes:
+- Restraint over excess  
+- Craft over gimmicks  
+- Calm over hype  
+
+---
+
+## 🎨 Design Decisions
+
+- Light, warm theme inspired by parchment, chai tones, and brass accents  
+- Serif + Sans pairing (Playfair Display + Inter) to balance heritage and modern clarity  
+- Minimal layout with generous spacing to evoke luxury and confidence  
+- Muted gold accent used sparingly to avoid visual noise  
+- No heavy animations — premium brands whisper, they don’t shout  
+
+The page is fully **mobile-first** and optimized for clarity across all screen sizes.
+
+---
+
+## 🧠 UX & Product Thinking
+
+This “Coming Soon” page is designed as a **pre-launch touchpoint**, not a placeholder.
+
+Key considerations:
+- Clear brand positioning within the first few seconds  
+- A single, focused call-to-action (email waitlist)  
+- Calm micro-copy that respects the user’s attention  
+- Graceful success and error handling during email submission  
+
+---
+
+## ⚙️ Tech Stack
+
+- **Next.js (App Router)**
+- **React**
+- **Tailwind CSS (v4)**
+- **Lucide Icons**
+- **Sonner** (toast notifications)
+
+The project follows clean separation between UI and API logic, with a simple backend endpoint to simulate waitlist signup.
+
+---
+
+## 🧩 Features
+
+- Responsive hero layout (mobile → desktop)
+- Email validation and submission flow
+- Loading and error states
+- Accessible markup and readable contrast
+- Subtle visual depth without performance cost
+
+---
+
+## 🚀 Getting Started Locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
