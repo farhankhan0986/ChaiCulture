@@ -1,8 +1,11 @@
-#  Chai Culture — Coming Soon
+# ☕ Chai Culture — Coming Soon
 
 **Brew the Royal Tradition**
 
 A premium, minimal “Coming Soon” landing page for **Chai Culture**, a brand inspired by the royal traditions of Indian chai and crafted for a modern global audience.
+
+🔗 **Live Preview:**  
+https://chai-culture-dun.vercel.app/
 
 This project was built as part of a frontend assignment to translate brand heritage into a calm, elegant, and production-ready digital experience.
 
