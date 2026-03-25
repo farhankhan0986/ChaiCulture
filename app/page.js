@@ -68,6 +68,7 @@ export default function Home() {
               {" "}
               Chai Culture{" "}
             </p>{" "}
+            <p></p>
           </div>
 
           {/* Headline */}
